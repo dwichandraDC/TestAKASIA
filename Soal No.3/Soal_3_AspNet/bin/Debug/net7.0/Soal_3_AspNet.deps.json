@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Soal_3_AspNet/1.0.0": {
+        "runtime": {
+          "Soal_3_AspNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soal_3_AspNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\bin\Debug\net7.0\Soal_4_AspNet.exe
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\bin\Debug\net7.0\Soal_4_AspNet.deps.json
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\bin\Debug\net7.0\Soal_4_AspNet.runtimeconfig.json
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\bin\Debug\net7.0\Soal_4_AspNet.dll
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\bin\Debug\net7.0\Soal_4_AspNet.pdb
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.AssemblyInfoInputs.cache
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.AssemblyInfo.cs
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.csproj.CoreCompileInputs.cache
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.dll
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\refint\Soal_4_AspNet.dll
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.pdb
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\Soal_4_AspNet.genruntimeconfig.cache
+D:\myFolder\TestAKASIA\Soal No.4\Soal_4_AspNet\obj\Debug\net7.0\ref\Soal_4_AspNet.dll

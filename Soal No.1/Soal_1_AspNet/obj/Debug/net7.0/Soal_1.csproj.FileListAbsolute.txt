@@ -1,0 +1,28 @@
+D:\myFolder\TestAKASIA\TestAKASIA\bin\Debug\net7.0\Soal_1.exe
+D:\myFolder\TestAKASIA\TestAKASIA\bin\Debug\net7.0\Soal_1.deps.json
+D:\myFolder\TestAKASIA\TestAKASIA\bin\Debug\net7.0\Soal_1.runtimeconfig.json
+D:\myFolder\TestAKASIA\TestAKASIA\bin\Debug\net7.0\Soal_1.dll
+D:\myFolder\TestAKASIA\TestAKASIA\bin\Debug\net7.0\Soal_1.pdb
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.AssemblyInfoInputs.cache
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.AssemblyInfo.cs
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.csproj.CoreCompileInputs.cache
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.dll
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\refint\Soal_1.dll
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.pdb
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\Soal_1.genruntimeconfig.cache
+D:\myFolder\TestAKASIA\TestAKASIA\obj\Debug\net7.0\ref\Soal_1.dll
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\bin\Debug\net7.0\Soal_1.exe
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\bin\Debug\net7.0\Soal_1.deps.json
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\bin\Debug\net7.0\Soal_1.runtimeconfig.json
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\bin\Debug\net7.0\Soal_1.dll
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\bin\Debug\net7.0\Soal_1.pdb
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.AssemblyInfoInputs.cache
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.AssemblyInfo.cs
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.csproj.CoreCompileInputs.cache
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.dll
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\refint\Soal_1.dll
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.pdb
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\Soal_1.genruntimeconfig.cache
+D:\myFolder\TestAKASIA\Soal No.1\Soal_1_AspNet\obj\Debug\net7.0\ref\Soal_1.dll
